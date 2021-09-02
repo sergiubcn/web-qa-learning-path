@@ -9,7 +9,7 @@ I put together what I wish I had when starting out. This is not in any way an ex
 
 The information on this list was gathered from 2 main resources:
 
-Personal experience gained from interviewing a lot of candidates for test automation positions, from all over the world - the Americas, Europe, Asia and Africa. Basically, these are the most common tools and technologies people work with, as well as requirements on web app projects I worked on both full and part time.
-Statistics gathered from anual surveys conducted by companies such as: [Github](https://octoverse.github.com/#overview), [StackOverflow](https://insights.stackoverflow.com/survey/), [JetBrains](https://www.jetbrains.com/lp/devecosystem-2021/), [Micro Focus](https://www.microfocus.com/en-us/marketing/world-quality-report-2020-21) to name a few - references may get outdated over time so be sure to check the latest results.
+- Personal experience gained from interviewing a lot of candidates for test automation positions, from all over the world - the Americas, Europe, Asia and Africa. Basically, these are the most common tools and technologies people work with, as well as requirements on web app projects I worked on both full and part time.
+- Statistics gathered from anual surveys conducted by companies such as: [Github](https://octoverse.github.com/#overview), [StackOverflow](https://insights.stackoverflow.com/survey/), [JetBrains](https://www.jetbrains.com/lp/devecosystem-2021/), [Micro Focus](https://www.microfocus.com/en-us/marketing/world-quality-report-2020-21) to name a few - references may get outdated over time so be sure to check the latest results.
 
 ![Web QA Learning Path](./testing_learning_path.png)
